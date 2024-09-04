@@ -22,6 +22,6 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 
 # Portfolio
 
-## Assignment 1: [Assignment 1]
+## Assignment 1
 
-[Portfolio Generation]
+Portfolio Generation
