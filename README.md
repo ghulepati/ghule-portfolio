@@ -11,10 +11,10 @@ As a career goal I aspire to be a Project/Product Manager. I'm looking forward t
 # What I Hope to Learn
 
 In this course, I am eager to learn 
--Data Visualisations
--Color Gradients
--Dashboards
--Tableau
+- Data Visualisations
+- Color Gradients
+- Dashboards
+- Tableau
 
 I am particularly interested in understanding data and making visualisations better so that all can understand them, and I believe this course will provide me with the foundational skills to excel in this area. 
 
