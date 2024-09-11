@@ -1,6 +1,7 @@
 # Tableau Assignment - Government Debt Data 
 
 ## Visualizing Government Data Debt
+![plot](export-2024-09-11T04_03_19.394Z.png)
 
 
 
