@@ -24,4 +24,5 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 
 ## Assignment 1
 
-Portfolio Generation
+Data Visualization With Tableau
+
