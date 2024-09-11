@@ -14,7 +14,9 @@
   
 </tableau-viz>
 
-## Tree Map
+
+## Tree Map for General Government Debt
 
 [![Tree Map for General Government Debt](https://public.tableau.com/static/images/Tr/TreeMapforGeneralGovernmentDebt/Sheet1/1_rss.png)](https://public.tableau.com/views/TreeMapforGeneralGovernmentDebt/Sheet1)
 
+Click the image above to view the interactive version of the Tree Map for General Government Debt.
