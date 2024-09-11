@@ -51,5 +51,4 @@ Tree maps have the advantage of efficiently using space to display many data poi
 Here, I have added a drop-down beneath the legend where one can select the year or multiple years for which they want to see the visualization. One can try using different combinations of years and see the area change and the colors change for different time periods which is interactive plus fun to visual governmant debt data! 
 
 
-
 Clicl here to go back to Home Page | [home page](https://ghulepati.github.io/ghule-portfolio/) | 
