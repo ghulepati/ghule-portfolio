@@ -20,7 +20,8 @@ Cannon, Christopher. “Mass US-Made Gun Exports Are Fueling Violence, Shootings
 
 
 
-### Why this Dataset?
+### Why this Dataset ?
+I was going through various datasets on [makeovermonday](https://makeovermonday.co.uk/)  when I first started re-designing for Energy Consumption by source visualization. I was half way done through my final design when I realised that I don't feel like this is something I want to do. I went back to the list of topics and them saw this, US arms export and though it took me some time to find the right data for it, it felt like something important to work on. When I first looked at this visualisation I was shocked as Thailand imports the highest arms from the US, and couldn't stop myself from further looking into the details of crimes caused directly or indirectly from the US arms import. I think that this is a case of causation, arms export from US is what causing increase in number of crimes in countries like Canada and Thailand, and even my own country India. When I looked at the visualisation, I noticed that some lines are longer, some are shorter and then width also varies not giving a complete picture of the size of the country vs it's arms import which I feel is really important. I choose this dataset as feel like, if a visualisation on a serious concerning topic like arms export could be made simpler for everyone to understand, it might help in reducing arms manufacturing and export. 
 
 ## Step 2 - Data Visualization Critique
 ![plot](Firearms.png)
