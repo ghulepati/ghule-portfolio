@@ -7,7 +7,7 @@ The following article has been accessed from  [makeovermonday](https://makeoverm
 ---
 **Citation**
 
-Cannon, Christopher. “Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally.” Bloomberg, 24 July 2023, https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/. Accessed 18 September 2024.
+Cannon, Christopher. “Mass US-Made Gun Exports Are Fueling Violence, Shootings Globally.” Bloomberg, 24 July 2023, [https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/]. Accessed 18 September 2024.
 
 
 ---
