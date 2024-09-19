@@ -25,6 +25,29 @@ I was going through various datasets on [makeovermonday](https://makeovermonday.
 
 ## Step 2 - Data Visualization Critique
 ![plot](Firearms.png)
+### Usefulness - 
+#### Rating (9/10)
+The visualization effectively shows the increase in US semiautomatic gun exports over time, which is highly relevant to the article's focus on the rise of American gun exports and their global impact. 
+
+### Completeness - 
+#### Rating (7/10)
+The visualization is complete in a lot of sense as in it has just the right amount of information and not too much, but I think what it lacks is size of the countries as well. As I think it is really important to understand the size of the country in terms of area and population vs the arms imported. 
+
+### Perceptibility - 
+#### Rating (3/10)
+The visualization struggles to clearly convey its message within the first few seconds of viewing. The varying thickness of the lines, representing the volume of exports, is not immediately apparent or easily interpretable. While the use of red color draws attention, the overall design fails to effectively communicate the relationship between line thickness, length, and the data they represent.
+
+### Intuitiveness - 
+#### Rating (3/10)
+The chart's design is not readily understood by a general audience. The meaning of the line thickness and its correlation with export volumes is not immediately clear, requiring additional explanation. This lack of intuitive design hinders quick comprehension of the data's significance.
+
+### Aesthetics - 
+#### Rating (9/10)
+The visualisation is beautiful to look at. The use of red color and the arms count mentioned at the tip of each stroke does give it a visually appealing aesthetic look.
+
+### Truthfulness - 
+#### Rating(6/10)
+While the data sources are clearly labeled, the representation of export volumes through line thickness may not accurately reflect the precise values, potentially leading to misinterpretation. The lack of clear scale for the thickness of the lines could result in viewers misunderstanding the true magnitude of the changes in export volumes.
 
 
 ## Step 3 - Redesign 
