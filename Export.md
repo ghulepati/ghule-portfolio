@@ -100,21 +100,16 @@ The names of the countries are clearly presented for easy identification.
 
 
    - **Can you tell me what do you see in the first 10 seconds when you see this visualization?**
-     I see Red color, country names espcially Thailand
-    I also see this has something to do with US arms export.
+    I see Thailand and this is somehow weirdly surprising as I did not expect Thailand to be top 1. 
     
   - **Can you please describe what do you understand from this visualisation?**
-    I think that Thailand has the most area and a prominent red color so it has the highest amount of imports from the US
-    Size of the areas represent the volume of export and the color might represent something like top 3 countries or so.
+    I see that the visual is related to US arms export and how much other countries like import it from the US and they have been ranked accordingly but I do not understand the area of the squares and what they represent. 
     
   - **What particularly helped you understand the visualisation?**
-    I think that title is self-explanatory. I also feel that the color scale is decent, as in red is a dominant color and thus it catches the eye
-    I like the simplicity of the visualisation.
+   I think the red color of the top 3 countries helped me a lot and also like the color segmentation which is just 3 colors and not a lot of shades so that I don't need to spend time in finding the difference. 
     
   - **What do you think should be improved?**
-    This visualisation gives a feeling that Thailand is a huge country when it is not. It is a small country in terms of area whereas Canada is a pretty huge country.
-    Probably a Map might help better in this aspect, just to see the size of the country vs it's import of arms
-
+    I think that a simple bar chart will do. I mean I just don't get a Tree Map, if this visual is intended for like citizens like me then I am sorry I can't understand. I need to like actually see the countries and or have like a simple graph to actually understand what is happening.
 
 ---
 
