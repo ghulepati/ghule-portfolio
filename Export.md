@@ -52,6 +52,21 @@ While the data sources are clearly labeled, the representation of export volumes
 
 ## Step 3 - Redesign 
 
+### Workflow 
+
+ - Changed the Chart type to Tree Map as it better shows the countries to which US exports arms by cummulative volume.
+
+
+ - I used a red color to highlight the top three countries, a medium tone for those in the middle range, and a lighter gray for the remaining countries. This color scheme enhances the visualization, providing clear focus on key data points.
+
+
+- The tool tip displays the country name and cumulative export volume.
+The names of the countries are clearly presented for easy identification.
+
+
+- The title clearly conveys the message of the visualisation at the first glance
+- There is a caption and a citation present which gives credit to the original writer as well as caption which explains the tree map
+
 <div class='tableauPlaceholder' id='viz1726696998853' style='position: relative'><noscript><a href='#'><img alt='Cummulative Volume of Firearms Exported by US to the World2005-2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeGraph-CummulativeVolofFirearmsExportedbytheUS&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TreeGraph-CummulativeVolofFirearmsExportedbytheUS&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TreeGraph-CummulativeVolofFirearmsExportedbytheUS&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 ## Step 4 - Interviews
