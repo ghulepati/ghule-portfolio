@@ -24,6 +24,8 @@ Cannon, Christopher. “Mass US-Made Gun Exports Are Fueling Violence, Shootings
 I was going through various datasets on [makeovermonday](https://makeovermonday.co.uk/)  when I first started re-designing for Energy Consumption by source visualization. I was half way done through my final design when I realised that I don't feel like this is something I want to do. I went back to the list of topics and them saw this, US arms export and though it took me some time to find the right data for it, it felt like something important to work on. When I first looked at this visualisation I was shocked as Thailand imports the highest arms from the US, and couldn't stop myself from further looking into the details of crimes caused directly or indirectly from the US arms import. I think that this is a case of causation, arms export from US is what causing increase in number of crimes in countries like Canada and Thailand, and even my own country India. When I looked at the visualisation, I noticed that some lines are longer, some are shorter and then width also varies not giving a complete picture of the size of the country vs it's arms import which I feel is really important. I choose this dataset as feel like, if a visualisation on a serious concerning topic like arms export could be made simpler for everyone to understand, it might help in reducing arms manufacturing and export. 
 
 ## Step 2 - Data Visualization Critique
+
+### Original Visualisation 
 ![plot](Firearms.png)
 ### Usefulness - 
 #### Rating (9/10)
@@ -125,3 +127,14 @@ Initially I was going with a Tree Map, as for me individually a Tree Map makes a
 ### Exploring new Features of Tableau - 
 
 I redesigned my Tree Map to a Bar Graph, with focus on top 30 countries. A neat simple bar graph which is easy to understand with the final volume count at the tip and both axis proper without overallaping things when I realised that though this is simple and adds to perception, the intuitiveness could be made better and the engagement could be made a lot better. Hence, I decided to explore some layout options in tableau. After going through some material on how to have different layouts in tableau, I had to think if I want to have a tree map and a world map together or a bar graph and a world map. I went ahead with a World Map and a Bar Grapgh while creating a new dashboard and adding both sheets to it. 
+
+### Explanation for Visualisations - 
+
+#### World Map 
+I wanted to show all countries to whom US exports arms while also focusing on top N countries. I tried a grey-red approach first, but noticed that having only top 10 countries red is not having that effect, that story which says that we need to do something about this increasing arms export problem. For this reason, I choose to color the top 10 countries dark blue while also showing all other non-zero countries in a distinct shade of blue just to have that visual of so many countries falling under this trap of arms and leading to more violence in the world. Also, when there is a world map everyone has to see which color is their home country so that makes it more engaging with the audience. I just decided to name Thailand in bold, as I wanted to show how a country small in area exports such heavy arms, meaning that every other person might poses arms which could be a possible reason for all the increasing crimes and how US is a direct relation causing that. 
+
+#### Bar Graph
+Along the world map, I wanted to show a simple statistic of top 30 countries just to give an idea of the cummulative volume of arms exported by the US to the world. Because of the interviews I choose bar graph over Tree Map and I think because of this the truthfulness of the data can be easily seen as it avoids any misleading information and correctly shows all necessary data while maintaining completeness by not overdoing the variables as well. Both the graphs show a cool blue color scheme and compliment each other while maintaining each other's uniqueness and distinctiveness but together as a whole is very aesthetic. 
+
+Thus, my final design signifies Completeness, Usefulness, Perceptibility, Engagement, Truthfulness, Aesthetics and Intuitiveness.  
+
