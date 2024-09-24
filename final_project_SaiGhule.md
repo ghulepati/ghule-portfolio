@@ -1,7 +1,28 @@
 | [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | | [US Guns Export](Export.md) | 
 
+# Being a Woman in the 21st Century!
 # Summary of Project
+
+As a woman from a well-educated family who has always provided me with the best opportunities, I've been reflecting on women's empowerment in the 21st century. My circle of female friends consists of high achievers who continue to make significant strides in their lives. While I'm amazed by how much women's leadership has grown in recent years, I can't help but feel that privileged women like myself - and yes, I acknowledge my privilege - often live in a bubble. We sometimes assume that all women have the same rights and opportunities we do.
+
+The truth is, in the 21st century, while women theoretically have equal rights, not all have the option to exercise them. I want to explore this disparity, but not to spark a debate on women's rights or to question political opinions and unjust laws (though I'm tempted to). My goal is simpler - I want to present a few visualizations, both positive and negative, to offer a glimpse into what it means to be a woman in the 21st century.
+
+I'm not trying to pit women against the world or start a heated discussion. Instead, I want to educate my audience and encourage them to think. I believe it's crucial to show both the progress we've made and the challenges that persist, especially for women who don't share the privileges I've been fortunate to have. I want my audience to walk away with a more nuanced understanding of women's status globally. I hope to inspire them to consider how they might contribute to furthering gender equality in their own spheres of influence.
+
+My hope is that by presenting a balanced view - acknowledging both the progress we've made and the challenges that remain - I can create a thoughtful, educational presentation. I want to avoid controversy while still encouraging meaningful reflection on what it means to be a woman in the 21st century.
+
+Ultimately, I want my audience to leave with a deeper understanding of the complexities surrounding women's rights and empowerment. I hope to inspire them to think critically about these issues and consider how they might contribute to positive change, regardless of their own background or circumstances.
+
 # Project Outline
+
+To achieve this, I'm planning to create a presentation that:
+
+Highlights advancements in women's leadership and empowerment across various sectors.
+Illustrates the disparity in opportunities between women from different backgrounds.
+Showcases global variations in women's rights and freedoms.
+Addresses ongoing challenges like the gender pay gap and work-life balance struggles.
+Encourages viewers to reflect on their own assumptions and biases.
+
 # Initial Sketches
 # Data Sources and Explanation
 
@@ -12,6 +33,8 @@
 
 | [Job Opportunities for Minority Women In private jobs](https://catalog.data.gov/dataset/job-patterns-for-minorities-and-women-in-private-industry-2017-eeo-1-national-aggregate-re) |
 | [Teen Birth Rates](https://catalog.data.gov/dataset/nchs-teen-birth-rates-for-age-group-15-19-in-the-united-states-by-county) |
+
+| [Women Entrepreneurship Participation](https://data.world/harimjung/gender-equality-women-entrepreneurship-participation)|
 
 
 # Link to publicaly accessible dataset
