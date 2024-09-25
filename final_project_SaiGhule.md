@@ -25,7 +25,20 @@ Encourages viewers to reflect on their own assumptions and biases.
 
 # Initial Sketches
 
+## Increase in female enrollment in Schools
 ![plot](Female_Enrollment_in_School.jpg)
+
+## Increase in Female Business Directors
+<div class='tableauPlaceholder' id='viz1727224400336' style='position: relative'><noscript><a href='#'><img alt='Increase in the Number of Female Business Directors ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1727224400336');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
+
+
 # Data Sources and Explanation
 
 | [Women in Household](https://data.unwomen.org/data-portal/sdm?annex=Household%20Composition%20and%20Living%20Arrangements&finic%5B%5D=P-13&finic%5B%5D=P-15&finic%5B%5D=P-17&finic%5B%5D=P-19&finic%5B%5D=P-20&finic%5B%5D=P-34&finic%5B%5D=P-35&finic%5B%5D=P-37&flocat%5B%5D=4&flocat%5B%5D=50&flocat%5B%5D=356&flocat%5B%5D=364&flocat%5B%5D=462&flocat%5B%5D=524&flocat%5B%5D=586&flocat%5B%5D=51&flocat%5B%5D=275&flocat%5B%5D=400&flocat%5B%5D=887&flocat%5B%5D=104&flocat%5B%5D=116&flocat%5B%5D=360&flocat%5B%5D=608&flocat%5B%5D=626&flocat%5B%5D=704&flocat%5B%5D=156&flocat%5B%5D=417&flocat%5B%5D=762&flocat%5B%5D=8&flocat%5B%5D=620&flocat%5B%5D=300&flocat%5B%5D=112&flocat%5B%5D=642&flocat%5B%5D=804&flocat%5B%5D=348&flocat%5B%5D=372&flocat%5B%5D=250&flocat%5B%5D=24&flocat%5B%5D=120&flocat%5B%5D=148&flocat%5B%5D=180&flocat%5B%5D=266&flocat%5B%5D=678&flocat%5B%5D=72&flocat%5B%5D=426&flocat%5B%5D=516&flocat%5B%5D=710&flocat%5B%5D=748&flocat%5B%5D=108&flocat%5B%5D=174&flocat%5B%5D=231&flocat%5B%5D=404&flocat%5B%5D=450&flocat%5B%5D=454&flocat%5B%5D=508&flocat%5B%5D=646&flocat%5B%5D=716&flocat%5B%5D=728&flocat%5B%5D=800&flocat%5B%5D=834&flocat%5B%5D=894&flocat%5B%5D=178&flocat%5B%5D=204&flocat%5B%5D=270&flocat%5B%5D=288&flocat%5B%5D=324&flocat%5B%5D=384&flocat%5B%5D=430&flocat%5B%5D=466&flocat%5B%5D=562&flocat%5B%5D=566&flocat%5B%5D=686&flocat%5B%5D=694&flocat%5B%5D=768&flocat%5B%5D=854&flocat%5B%5D=729&flocat%5B%5D=818&flocat%5B%5D=32&flocat%5B%5D=68&flocat%5B%5D=76&flocat%5B%5D=170&flocat%5B%5D=218&flocat%5B%5D=328&flocat%5B%5D=604&flocat%5B%5D=858&flocat%5B%5D=188&flocat%5B%5D=222&flocat%5B%5D=320&flocat%5B%5D=340&flocat%5B%5D=484&flocat%5B%5D=591&flocat%5B%5D=214&flocat%5B%5D=332&flocat%5B%5D=630&flocat%5B%5D=780&flocat%5B%5D=124&flocat%5B%5D=840&flocat%5B%5D=242&flocat%5B%5D=62&flocat%5B%5D=753&flocat%5B%5D=513&flocat%5B%5D=419&flocat%5B%5D=747&flocat%5B%5D=543&flocat%5B%5D=202&tab=table) |
