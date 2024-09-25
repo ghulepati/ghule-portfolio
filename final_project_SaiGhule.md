@@ -53,20 +53,6 @@ Encouraging critical thinking and personal reflection
 Giving a sense of what it is to be a woman in 2024
 
 
-### Highlights advancements in women's leadership and empowerment across various sectors.
-
-1. Increase in Female Enrollment in Schools across the world
-2. Increase in female business Directors
-
-### After which I want to slowly move the audience's attention towards several issues modern women are facing 
-
-Showcases global variations in women's rights and freedoms.
-Addresses ongoing challenges like the gender pay gap and work-life balance struggles.
-Illustrates the disparity in opportunities between women from different backgrounds.
-
-### Finally after showing them both sides of the coin, I want them to go with a thought of how it is to be a woman in the 21st century. 
-Encourages viewers to reflect on their own assumptions and biases.
-
 # Initial Sketches
 
 ## Increase in female enrollment in Schools
