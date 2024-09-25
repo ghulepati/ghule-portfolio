@@ -1,4 +1,4 @@
-| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | | [US Guns Export](Export.md) | 
+| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | | [US Guns Export](Export.md) | [Final Project](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)|
 
 # Being a Woman in the 21st Century!
 # Summary of Project
