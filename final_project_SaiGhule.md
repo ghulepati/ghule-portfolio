@@ -1,6 +1,6 @@
 | [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | | [US Guns Export](Export.md) | [Final Project](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)|
 
-# Being a Woman in the 21st Century!
+# The world for a Gen-z Woman!
 # Summary of Project
 
 As a woman from a well-educated family who has always provided me with the best opportunities, I've been reflecting on women's empowerment in the 21st century. My circle of female friends consists of high achievers who continue to make significant strides in their lives. While I'm amazed by how much women's leadership has grown in recent years, I can't help but feel that privileged women like myself - and yes, I acknowledge my privilege - often live in a bubble. We sometimes assume that all women have the same rights and opportunities we do.
