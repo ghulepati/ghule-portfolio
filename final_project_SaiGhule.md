@@ -17,6 +17,8 @@ Ultimately, I want my audience to leave with a deeper understanding of the compl
 
 As one can see in the story arc, I want to start my story by positive changes happening in the society and around the world for women empowerment. To show this I will use the following visualizations - 
 
+![plot](Project_Structure.jpg)
+
 
 1.  Introduction -  The Privilege Perspective
 Personal reflection on educational and social advantages
