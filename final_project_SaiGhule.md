@@ -126,3 +126,11 @@ Our story is one of resilience and progress, but also of ongoing struggle and th
 
 
 # Method and Medium
+
+I plan to create an interactive, web-based presentation using Shorthand as the primary platform. This will allow me to craft a visually engaging narrative that combines text, images, and interactive elements to explore women's empowerment in the 21st century.
+
+For data visualizations, I will use Tableau to create interactive charts and graphs. These will be embedded within the Shorthand story to illustrate key statistics and trends related to women's labor force participation, education rates, and other relevant indicators. Using Tableau will enable me to create dynamic, responsive visualizations that viewers can interact with to explore the data in more depth.
+
+For the sections on women in business and entrepreneurship, I plan to create an interactive timeline using TimelineJS. This will highlight key milestones and trends in women's business leadership over the past few decades.
+
+By combining these various interactive and multimedia elements within the Shorthand framework, I aim to create a comprehensive, engaging, and informative presentation on women's empowerment in the 21st century that goes beyond traditional slideshow formats.
