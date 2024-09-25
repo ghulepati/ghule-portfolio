@@ -19,37 +19,35 @@ As one can see in the story arc, I want to start my story by positive changes ha
 
 ![plot](Project_Structure.jpg)
 
-
-1.  Introduction -  The Privilege Perspective
+### Introduction -  The Privilege Perspective
 Personal reflection on educational and social advantages
 Acknowledging the bubble of privilege
 
-2.  Progress in Women's Leadership
+### Progress in Women's Leadership
 Rise of women in business
 Increasing female enrollment in primary schools
 Visualization -  Trends in women's leadership positions and primary school enrollment rates
 
-3. The Labor Force Landscape
+### The Labor Force Landscape
 Historical context of women in the workforce
 Current state of women's labor force participation
 Visualization - Women's labor force participation rates by region and over time
 
-4. Persistent Inequalities
+### Persistent Inequalities
 Wage gap analysis
 Underrepresentation in certain industries
 Visualization - Gender pay gap across states in US and in education
 
-5.  Education and Empowerment
+### Education and Empowerment
 Correlation between education and other empowerment indicators
 Impact of early motherhood on opportunities
 Visualization: Education access rates alongside labor force participation and teen birth rates
 
-6. Looking Ahead - Challenges and Opportunities
+### Looking Ahead - Challenges and Opportunities
 Key areas for improvement
 Role of policy, education, and cultural change
 
-7. Conclusion - Inspiring Action
-
+### Conclusion - Inspiring Action
 Recap of key insights
 Encouraging critical thinking and personal reflection
 Giving a sense of what it is to be a woman in 2024
