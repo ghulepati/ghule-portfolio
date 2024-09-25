@@ -15,12 +15,20 @@ Ultimately, I want my audience to leave with a deeper understanding of the compl
 
 # Project Outline
 
-To achieve this, I'm planning to create a presentation that:
+As one can see in the story arc, I want to start my story by positive changes happening in the society and around the world for women empowerment. To show this I will use the following visualizations - 
 
-Highlights advancements in women's leadership and empowerment across various sectors.
-Illustrates the disparity in opportunities between women from different backgrounds.
+### Highlights advancements in women's leadership and empowerment across various sectors.
+
+1. Increase in Female Enrollment in Schools across the world
+2. Increase in female business Directors
+
+### After which I want to slowly move the audience's attention towards several issues modern women are facing 
+
 Showcases global variations in women's rights and freedoms.
 Addresses ongoing challenges like the gender pay gap and work-life balance struggles.
+Illustrates the disparity in opportunities between women from different backgrounds.
+
+### Finally after showing them both sides of the coin, I want them to go with a thought of how it is to be a woman in the 21st century. 
 Encourages viewers to reflect on their own assumptions and biases.
 
 # Initial Sketches
