@@ -55,8 +55,11 @@ Giving a sense of what it is to be a woman in 2024
 
 # Initial Sketches
 
+All sources of data for sketches are mentioned in the Data Section. 
+
 ## Increase in female enrollment in Schools
 ![plot](Female_Enrollment_in_School.jpg)
+ 
 
 
 ## Increase in Female Business Directors
