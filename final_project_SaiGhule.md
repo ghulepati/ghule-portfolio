@@ -79,6 +79,11 @@ All sources of data for sketches are mentioned in the Data Section.
 
 ![plot](gender-pay-gap.png)
 
+This visualization is created with the help of Datawrapper using it's inbuilt dataset. 
+Datawrapper: Create charts, maps, and tables, https://www.datawrapper.de/. Accessed 24 September 2024.
+
+I plan to have either a video or an interactive visualization for teen birth rates and women rights, not sure if it is a political topic hence haven't included the visualization here. 
+
 # Data Sources and Explanation
 
 Following are the data sources which I have used/ I plan to use as a part of my final project. 
@@ -90,6 +95,8 @@ The home is often where gender roles are first defined and reinforced. By examin
 Reason - This data forms the foundation of our narrative, showing how the personal becomes political in the journey of women's empowerment.
 | [Women in Household](https://data.unwomen.org/data-portal/sdm?annex=Household%20Composition%20and%20Living%20Arrangements&finic%5B%5D=P-13&finic%5B%5D=P-15&finic%5B%5D=P-17&finic%5B%5D=P-19&finic%5B%5D=P-20&finic%5B%5D=P-34&finic%5B%5D=P-35&finic%5B%5D=P-37&flocat%5B%5D=4&flocat%5B%5D=50&flocat%5B%5D=356&flocat%5B%5D=364&flocat%5B%5D=462&flocat%5B%5D=524&flocat%5B%5D=586&flocat%5B%5D=51&flocat%5B%5D=275&flocat%5B%5D=400&flocat%5B%5D=887&flocat%5B%5D=104&flocat%5B%5D=116&flocat%5B%5D=360&flocat%5B%5D=608&flocat%5B%5D=626&flocat%5B%5D=704&flocat%5B%5D=156&flocat%5B%5D=417&flocat%5B%5D=762&flocat%5B%5D=8&flocat%5B%5D=620&flocat%5B%5D=300&flocat%5B%5D=112&flocat%5B%5D=642&flocat%5B%5D=804&flocat%5B%5D=348&flocat%5B%5D=372&flocat%5B%5D=250&flocat%5B%5D=24&flocat%5B%5D=120&flocat%5B%5D=148&flocat%5B%5D=180&flocat%5B%5D=266&flocat%5B%5D=678&flocat%5B%5D=72&flocat%5B%5D=426&flocat%5B%5D=516&flocat%5B%5D=710&flocat%5B%5D=748&flocat%5B%5D=108&flocat%5B%5D=174&flocat%5B%5D=231&flocat%5B%5D=404&flocat%5B%5D=450&flocat%5B%5D=454&flocat%5B%5D=508&flocat%5B%5D=646&flocat%5B%5D=716&flocat%5B%5D=728&flocat%5B%5D=800&flocat%5B%5D=834&flocat%5B%5D=894&flocat%5B%5D=178&flocat%5B%5D=204&flocat%5B%5D=270&flocat%5B%5D=288&flocat%5B%5D=324&flocat%5B%5D=384&flocat%5B%5D=430&flocat%5B%5D=466&flocat%5B%5D=562&flocat%5B%5D=566&flocat%5B%5D=686&flocat%5B%5D=694&flocat%5B%5D=768&flocat%5B%5D=854&flocat%5B%5D=729&flocat%5B%5D=818&flocat%5B%5D=32&flocat%5B%5D=68&flocat%5B%5D=76&flocat%5B%5D=170&flocat%5B%5D=218&flocat%5B%5D=328&flocat%5B%5D=604&flocat%5B%5D=858&flocat%5B%5D=188&flocat%5B%5D=222&flocat%5B%5D=320&flocat%5B%5D=340&flocat%5B%5D=484&flocat%5B%5D=591&flocat%5B%5D=214&flocat%5B%5D=332&flocat%5B%5D=630&flocat%5B%5D=780&flocat%5B%5D=124&flocat%5B%5D=840&flocat%5B%5D=242&flocat%5B%5D=62&flocat%5B%5D=753&flocat%5B%5D=513&flocat%5B%5D=419&flocat%5B%5D=747&flocat%5B%5D=543&flocat%5B%5D=202&tab=table) |
 
+“Data.” UN Women Data Hub, https://data.unwomen.org/data-portal. Accessed 24 September 2024.
+
 
 ### Women in Labour Force 
 The story of women in the workforce is one of persistent progress and lingering challenges. This dataset allows us to paint a picture of women breaking barriers, entering traditionally male-dominated fields, and rising to leadership positions. At the same time, it reveals ongoing struggles with underemployment, occupational segregation, and work-life balance.
@@ -97,17 +104,23 @@ The story of women in the workforce is one of persistent progress and lingering 
 Reason - By tracking women's participation in the labor force over time and across countries, we can illustrate both how far we've come and how far we still have to go.
 | [Women in Labour Force](https://data.unwomen.org/data-portal/sdm?annex=Labour%20Force%20Participation%20rates%20by%20Sex%20and%20Marital%20Status&finic%5B%5D=P-38&fimsc%5BP-38%5D%5B%5D=All&fimsc%5BP-38%5D%5B%5D=Widowed&fimsc%5BP-38%5D%5B%5D=Currently%20divorced%20or%20separated&fimsc%5BP-38%5D%5B%5D=Married%2Fin%20union&fimsc%5BP-38%5D%5B%5D=Single%2Fnever%20married&flocat%5B%5D=4&flocat%5B%5D=50&flocat%5B%5D=144&flocat%5B%5D=356&flocat%5B%5D=462&flocat%5B%5D=524&flocat%5B%5D=586&flocat%5B%5D=51&flocat%5B%5D=368&flocat%5B%5D=784&flocat%5B%5D=792&flocat%5B%5D=887&flocat%5B%5D=96&flocat%5B%5D=104&flocat%5B%5D=116&flocat%5B%5D=360&flocat%5B%5D=418&flocat%5B%5D=608&flocat%5B%5D=626&flocat%5B%5D=704&flocat%5B%5D=764&flocat%5B%5D=156&flocat%5B%5D=410&flocat%5B%5D=496&flocat%5B%5D=762&flocat%5B%5D=8&flocat%5B%5D=70&flocat%5B%5D=380&flocat%5B%5D=620&flocat%5B%5D=688&flocat%5B%5D=724&flocat%5B%5D=40&flocat%5B%5D=250&flocat%5B%5D=276&flocat%5B%5D=442&flocat%5B%5D=528&flocat%5B%5D=756&flocat%5B%5D=203&flocat%5B%5D=616&flocat%5B%5D=643&flocat%5B%5D=703&flocat%5B%5D=208&flocat%5B%5D=233&flocat%5B%5D=246&flocat%5B%5D=826&flocat%5B%5D=32&flocat%5B%5D=68&flocat%5B%5D=76&flocat%5B%5D=152&flocat%5B%5D=170&flocat%5B%5D=218&flocat%5B%5D=328&flocat%5B%5D=600&flocat%5B%5D=604&flocat%5B%5D=858&flocat%5B%5D=862&flocat%5B%5D=188&flocat%5B%5D=222&flocat%5B%5D=320&flocat%5B%5D=340&flocat%5B%5D=484&flocat%5B%5D=558&flocat%5B%5D=591&flocat%5B%5D=214&flocat%5B%5D=780&flocat%5B%5D=124&flocat%5B%5D=840&flocat%5B%5D=36&flocat%5B%5D=90&flocat%5B%5D=242&flocat%5B%5D=598&flocat%5B%5D=184&flocat%5B%5D=798&flocat%5B%5D=882&flocat%5B%5D=520&flocat%5B%5D=583&flocat%5B%5D=585&flocat%5B%5D=72&flocat%5B%5D=516&flocat%5B%5D=710&flocat%5B%5D=748&flocat%5B%5D=108&flocat%5B%5D=231&flocat%5B%5D=450&flocat%5B%5D=454&flocat%5B%5D=480&flocat%5B%5D=508&flocat%5B%5D=646&flocat%5B%5D=690&flocat%5B%5D=716&flocat%5B%5D=834&flocat%5B%5D=894&flocat%5B%5D=120&flocat%5B%5D=180&flocat%5B%5D=132&flocat%5B%5D=270&flocat%5B%5D=288&flocat%5B%5D=384&flocat%5B%5D=430&flocat%5B%5D=466&flocat%5B%5D=478&flocat%5B%5D=562&flocat%5B%5D=566&flocat%5B%5D=686&flocat%5B%5D=694&flocat%5B%5D=768&flocat%5B%5D=854&flocat%5B%5D=788&flocat%5B%5D=818&flocat%5B%5D=53&flocat%5B%5D=62&flocat%5B%5D=753&flocat%5B%5D=513&flocat%5B%5D=419&flocat%5B%5D=747&flocat%5B%5D=543&flocat%5B%5D=202&fgende%5BFemale%5D=Female&fgende%5BMale%5D=Male&tab=table) |
 
+“Data.” UN Women Data Hub, https://data.unwomen.org/data-portal. Accessed 24 September 2024.
+
 ### Job Opportunities for Minority Women In Private Jobs  
 This dataset allows us to delve into the intersectionality of gender and race in the workplace. It helps us tell the often-overlooked stories of minority women who face compounded challenges in their professional lives. By focusing on private sector jobs, we can examine how corporate policies and cultures impact diversity and inclusion.
 
 Reason - This data adds depth to our narrative by highlighting that the experience of "women" is not monolithic, and that race and ethnicity play crucial roles in shaping opportunities and obstacles.
 | [Job Opportunities for Minority Women In private jobs](https://catalog.data.gov/dataset/job-patterns-for-minorities-and-women-in-private-industry-2017-eeo-1-national-aggregate-re) |
 
+Dataset - Catalog, https://catalog.data.gov/dataset. Accessed 24 September 2024
+
 ### Teen Birth Rates 
 Teen birth rates also serve as a sensitive indicator of overall women's empowerment in a society. Lower rates often correlate with higher levels of education for girls, better economic prospects for women, and more progressive attitudes towards gender equality.
 This dataset adds a crucial dimension to our story by focusing on a vulnerable demographic - teenage girls - whose experiences can shed light on the broader challenges and progress in women's empowerment. It allows us to discuss how investing in young women's education and healthcare can have ripple effects throughout society, breaking intergenerational cycles of poverty and disempowerment.
 
 | [Teen Birth Rates](https://catalog.data.gov/dataset/nchs-teen-birth-rates-for-age-group-15-19-in-the-united-states-by-county) |
+
+Dataset - Catalog, https://catalog.data.gov/dataset. Accessed 24 September 2024
 
 
 ### Women in Business 
@@ -116,11 +129,15 @@ It is important to show how Female business leaders have emerged in the society.
 Reason - By including this data, we add an inspiring and forward-looking dimension to our story, highlighting women as creators of economic opportunity, not just participants.
 | [Women Entrepreneurship Participation](https://data.world/harimjung/gender-equality-women-entrepreneurship-participation)|
 
+The Data Catalog Platform | data.world, https://data.world/. Accessed 24 September 2024.
+
 ### Gender Pay Gap
 The persistent wage gap between men and women is perhaps the most tangible measure of ongoing gender inequality in the workplace. This dataset allows us to tell a story of slow progress and stubborn disparities. It raises questions about how we value different types of work and how unconscious biases continue to impact compensation decisions.
 
 Reason - The gender pay gap data provides a concrete, measurable aspect to our narrative. It's a clear indicator that despite progress in many areas, economic equality remains elusive.
 | [Gender Pay Gap](https://www.census.gov/library/stories/2022/03/what-is-the-gender-wage-gap-in-your-state.html)|
+
+Census.gov | U.S. Census Bureau Homepage, https://www.census.gov. Accessed 24 September 2024.
 
 
 By weaving these datasets together, we can tell a comprehensive story of women's empowerment in the 21st century. We start in the home, move through the workforce, highlight the unique challenges faced by minority women, celebrate entrepreneurial spirit, and confront the persistent issue of unequal pay. This narrative arc allows us to show both progress and persistent challenges, painting a nuanced picture of what it means to be a woman in today's world.
