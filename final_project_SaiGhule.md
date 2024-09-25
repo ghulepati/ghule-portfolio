@@ -103,6 +103,4 @@ By weaving these datasets together, we can tell a comprehensive story of women's
 Our story is one of resilience and progress, but also of ongoing struggle and the need for continued effort. By presenting these diverse datasets, we aim to inspire reflection on how far we've come, how far we have yet to go, and what each of us can do to contribute to a more equitable future.
 
 
-
-# Link to publicaly accessible dataset
 # Method and Medium
