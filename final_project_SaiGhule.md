@@ -47,8 +47,12 @@ Encourages viewers to reflect on their own assumptions and biases.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+### Gender Pay Gap by State
 ![plot](GenderPay_Gap.jpg)
 
+### Gender Pay Gap by Profession
+
+![plot](gender-pay-gap.png)
 
 # Data Sources and Explanation
 
