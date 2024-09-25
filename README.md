@@ -1,7 +1,7 @@
 # PORTFOLIO
 I hope to get better at visualisations to land a job before December <3
 
-| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | | [US Guns Export](Export.md) | 
+| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | [US Guns Export](Export.md) | [Final Project](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)|
 # About Me
 
 Hello! My name is Sai Ghule and my pronouns are she/her. I am currently enrolled in the MISM-16 program at Carnegie Mellon University. This is my third degree, I have an undergraduate degree in Computer Science and a diploma in Underwater Archaeology before this.
