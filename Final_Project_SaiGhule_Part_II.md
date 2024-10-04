@@ -63,8 +63,12 @@ Giving a sense of what it is to be a woman in 2024
 
 My target audience is my class professor, my class TA, my flatmate, my boyfriend, my mother who is always wishes for my well being, my father who calms her down, the woman for whom I opened the door today, the nice gentleman who said I looked beautiful in the morning, the not so nice person who thought I couldn't do xyz, the person who always believed in me even when I didn't. Yes, this list includes everyone, every human irrespective of their genders and sexual preferences around me and around all of us, as I think that being a woman, this beautiful rollercoaster journey is incomplete without everyone around us. The purpose of this story is not to point out at organizations or people who have themselves done for example gender pay discrimination or were victimes of, this is simply to educate people of the current scenario and making them think on their own if they want to do anything about it. 
 
+## Research Goal 
+
+The goal of this research is to understand perceptions of what it means to be a 21st-century woman, evaluate the effectiveness of the visualizations in conveying this concept, and gather insights for improving the narrative and impact of the data storytelling. The research also aims to explore the general sentiment of the target audience regarding women’s empowerment, gender equality, and societal expectations, as well as collect suggestions for improvement and effective calls to action.
 
 ## Interview script
+
 
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
    different possibilities for this story?
