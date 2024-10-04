@@ -88,7 +88,7 @@ The goal of this research is to understand perceptions of what it means to be a 
 
 
 ## Interview findings
-Interview 1 - A Female's Perspective 
+Interview 1 - 22 year old Female student
 
 
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
@@ -141,7 +141,7 @@ I would suggest looking more into how women are performing in particular fields 
 
 
 
-### Interview 3 - A Man's Perspective 
+### Interview 3 - Early 30's Feminist Male
 
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
   different possibilities for this story?
@@ -191,7 +191,7 @@ Call to action should be dependent on the goal. If the goal is to create awarene
 <hr style="border: 0.5px solid #d3d3d3;" />
 <hr style="border: 0.5px solid #d3d3d3;" />
 
-### Interview 2 - A Man's Perspective 
+### Interview 2 - Mid 20's Male
 
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
   different possibilities for this story?
@@ -268,6 +268,7 @@ The need for clarity, simplicity, and storytelling in the visualizations was a r
 
 ## What Did You Learn from the Feedback?
 The visualizations were effective but could be improved by adding more context, such as providing a clear stance or narrative for each graph to avoid ambiguity.
+
 Including personal stories alongside the data could make the message more relatable and emotionally impactful, enhancing audience engagement.
 The importance of creating a balance between text and visuals was highlighted, with a preference for more visual storytelling over text-heavy slides.
 
