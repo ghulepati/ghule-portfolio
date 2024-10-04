@@ -107,7 +107,7 @@ Interview 1 - A Female's Perspective
 <hr style="border: 0.5px solid #d3d3d3;" />
 
 
-Interview 2 - A Man's Perspective 
+### Interview 2 - A Man's Perspective 
 
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
   different possibilities for this story?
