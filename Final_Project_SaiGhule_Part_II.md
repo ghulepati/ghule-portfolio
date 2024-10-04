@@ -237,10 +237,44 @@ The call to action should be to inspire the audience to interact with the topic 
 <hr style="border: 0.5px solid #d3d3d3;" />
 
 
-# Identified changes for Part III
+# Findings from the Interviews
 
+## Similarities
 
+All interviewees understood that the target audience for this story, highlighting different aspects of being a woman in the 21st century.
 
+They appreciated the visualizations and found them generally easy to understand, agreeing that they helped build a comprehensive narrative.
+
+The interviewees noted that the overall theme resonated well with current topics, such as women's empowerment, gender equality, and societal expectations.
+
+## Differences
+
+One interviewee viewed the title as open-ended and inviting, while another initially perceived it as potentially patronizing, which led to different initial expectations of the story's structure.
+
+While one person focused more on the emotional impact of the story and the idea of empowerment, another emphasized the need for fewer facts and more cohesive storytelling, suggesting that a narrative approach would be more effective than solely presenting data.
+
+## Patterns in the Feedback
+The interviewees agreed that the visualizations helped communicate the story effectively, especially regarding women's progress, such as increased education and workforce participation.
+
+They highlighted the importance of balancing data presentation with a strong narrative to appeal to both the emotional and rational sides of the audience.
+
+The need for clarity, simplicity, and storytelling in the visualizations was a recurring theme across the feedback.
+
+## What Did You Learn from the Feedback?
+The visualizations were effective but could be improved by adding more context, such as providing a clear stance or narrative for each graph to avoid ambiguity.
+Including personal stories alongside the data could make the message more relatable and emotionally impactful, enhancing audience engagement.
+The importance of creating a balance between text and visuals was highlighted, with a preference for more visual storytelling over text-heavy slides.
+
+# Changes I Plan to Implement in My Visualizations to Address the Issues Identified
+
+## Adjusting Tooltip Format 
+I will modify the tooltip format in Tableau to prevent text overflow, ensuring that important information is accessible and easy to read.
+
+## More Narrative Text
+I plan to add more narrative elements to the visualizations, incorporating key takeaways from research, such as insights about gender inequality and societal expectations, to provide more context and guide viewers through the story.
+
+## More Call-to-Action Items
+I will include specific, actionable items for the audience, such as encouraging them to imagine themselves in a woman's shoes and actively think about their interactions with women. This will help deepen the connection and inspire action beyond mere awareness.
 
 
 
