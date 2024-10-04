@@ -7,10 +7,13 @@
 ### Introduction -  The Privilege Perspective
 Personal reflection on educational and social advantages
 Acknowledging the bubble of privilege
+I am going to add my own picture and give a quick view of the good priviliged life I have had (saves me from worrying about all copyright images)
 
 
 ### Progress in Women's Leadership
 Rise of women in business
+
+I want to demonstrate positive things in the 21st century, that business's now are not men dominated women too are in the leadership space.
 Visualization -  Increase in Women Leaders in Business
 
 <div class='tableauPlaceholder' id='viz1727224400336' style='position: relative'><noscript><a href='#'><img alt='Increase in the Number of Female Business Directors ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -52,10 +55,9 @@ Key areas for improvement
 Role of policy, education, and cultural change
 I plan to have three boxes, one with opportunities one with challenges and the middle one with a unique question with directs to our call of action.
 
-### Conclusion - Inspiring Action
 Recap of key insights
 Encouraging critical thinking and personal reflection
-Giving a sense of what it is to be a woman in 2024
+Giving a sense of what it is to be a woman in 2024 - Women are finally living in an age where we women are free to follow our heart, I don't want to give you a list of atrocities beared by since ancient times, I absolutely don't want to do that, I just want to show the good and bad, happy and sad, clouds and sunshine and let the audience decide for themselves? Do they want to push me (a woman) in the box of challenges or hold my hand walk with me through the field of opportunities?
 
 # User research 
 
