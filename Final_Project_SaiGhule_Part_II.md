@@ -84,24 +84,106 @@ My target audience is my class professor, my class TA, my flatmate, my boyfriend
 ## Interview findings
 Interview 1 - A Female's Perspective 
 
+
 ❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
-   different possibilities for this story?
+  different possibilities for this story?
+  
+**Answer**   
+
+Just by looking at the title, I can think of a few different things that the project could potentially talk about but it seems relatively broad and open. This seems like a good thing because it makes me think that there will be a few different elements captured in the story about Gen Z women and their life.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
    
 ❓ What is being a 21st century woman according to you?
 
+**Answer**  
+
+Being a 21st-century woman to me, means having the freedom to make my own choices—whether it's about my career, education, or personal life. It's about finding balance between ambition and self-care, standing up for equality, and staying true to my values. It’s also about adapting to the fast-changing world while making sure I grow personally and professionally.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
 ❓ Are the visualizations easy to understand? If I give you 10 seconds per visualization, what all will you remember from them collectively? 
    Does it form a story structure in your head?
-   
+
+**Answer**  
+
+Yes, the visualizations are overall intuitive and easy to understand. I think they do a good job of communicating the story that you are trying to communicate. A couple that stood out to me were Increase in female enrollment in Schools and Gender pay gap. However, I didn’t easily get the Increase in Female Business Directors chart. Not sure how much I can retain in just 10 seconds because I also found myself trying to understand if this graph was for or against the idea (as in which stance was it taking).
+
+
+   <hr style="border: 0.5px solid #d3d3d3;" />
+
 ❓ If you were to explain what being a woman in this world is to a child, will this story work for the purpose? Does it cover various aspects 
    of being a woman without getting into extremes?
 
+**Answer**  
+
+I think there are parts of this story that could be communicated easily to a child like the increase in female enrollment in schools. But there are more challenging concepts like gender pay gap that a child might not necessarily understand.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
 ❓ What improvements will you suggest (Graphs, Design, Colors, Text)? What should the call of action be in the end according to you?  
 
+**Answer**  
 
+I would suggest looking more into how women are performing in particular fields and the growth rate. That could be interesting to look at. The call to action right now seems to just be understanding the story about women’s empowerment which makes sense to me.
 
 <hr style="border: 0.5px solid #d3d3d3;" />
 <hr style="border: 0.5px solid #d3d3d3;" />
 
+
+
+
+
+### Interview 3 - A Man's Perspective 
+
+❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
+  different possibilities for this story?
+  
+**Answer**   
+
+By title, I thought of it to be a patronizing article which is highly circulated on social media. Due to this perception, I started thinking about story structure but it was quite different from the actual content
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
+   
+❓ What is being a 21st century woman according to you?
+
+**Answer**  
+
+Independent being who does not require permission for anything, is career driven and financially independent as well.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
+❓ Are the visualizations easy to understand? If I give you 10 seconds per visualization, what all will you remember from them collectively? 
+   Does it form a story structure in your head?
+
+**Answer**  
+
+   I think they give an overarching idea of how slowly facilities and gaps between the genders have reduced.
+
+   <hr style="border: 0.5px solid #d3d3d3;" />
+
+❓ If you were to explain what being a woman in this world is to a child, will this story work for the purpose? Does it cover various aspects 
+   of being a woman without getting into extremes?
+
+**Answer**  
+
+   A child understands stories, pictures, more simpler language. So I would focus on making it more easily digestible for children.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
+❓ What improvements will you suggest (Graphs, Design, Colors, Text)? What should the call of action be in the end according to you?  
+
+**Answer**  
+
+Text could be lesser. Overall, binding the entire narrative in form of story would be much more eye opening instead of just presenting facts and numbers. Facts appeal to a human brain but story appeals to a human heart and hence it is definitely much more remembered as well. 
+Call to action should be dependent on the goal. If the goal is to create awareness, then it could be something like 
+
+"Try imagining yourself to be a woman in this century as it will help you learn how to behave with one"
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+<hr style="border: 0.5px solid #d3d3d3;" />
 
 ### Interview 2 - A Man's Perspective 
 
