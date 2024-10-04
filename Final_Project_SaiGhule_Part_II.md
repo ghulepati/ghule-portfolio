@@ -54,38 +54,38 @@ Giving a sense of what it is to be a woman in 2024
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-My target audience is everyone.
+My target audience is my class professor, my class TA, my flatmate, my boyfriend, my mother who is always wishes for my well being, my father who calms her down, the woman for whom I opened the door today, the nice gentleman who said I looked beautiful in the morning, the not so nice person who thought I couldn't do xyz, the person who always believed in me even when I didn't. Yes, this list includes everyone, every human irrespective of their genders and sexual preferences around me and around all of us, as I think that being a woman, this beautiful rollercoaster journey is incomplete without everyone around us. The purpose of this story is not to point out at organizations or people who have themselves done for example gender pay discrimination or were victimes of, this is simply to educate people of the current scenario and making them think on their own if they want to do anything about it. 
+
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
+   different possibilities for this story?
+   
+❓ What is being a 21st century woman according to you?
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+❓ Are the visualizations easy to understand? If I give you 10 seconds per visualization, what all will you remember from them collectively? 
+   Does it form a story structure in your head?
+   
+❓ If you were to explain what being a woman in this world is to a child, will this story work for the purpose? Does it cover various aspects 
+   of being a woman without getting into extremes?
+
+❓ What improvements will you suggest (Graphs, Design, Colors, Text)? What should the call of action be in the end according to you?  
 
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Interview 1 - A Female's Perspective 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+Interview 2 - A Man's Perspective 
+
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+
 
 Text here!
 
@@ -97,9 +97,7 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
 
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
