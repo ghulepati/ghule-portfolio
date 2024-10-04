@@ -8,10 +8,10 @@
 Personal reflection on educational and social advantages
 Acknowledging the bubble of privilege
 
+
 ### Progress in Women's Leadership
 Rise of women in business
-Increasing female enrollment in primary schools
-Visualization -  Trends in women's leadership positions and primary school enrollment rates
+Visualization -  Increase in Women Leaders in Business
 
 <div class='tableauPlaceholder' id='viz1727224400336' style='position: relative'><noscript><a href='#'><img alt='Increase in the Number of Female Business Directors ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IncreaseinNumberofFemaleBusinessDirectors&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -22,14 +22,10 @@ Visualization -  Trends in women's leadership positions and primary school enrol
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-### The Labor Force Landscape
-Historical context of women in the workforce
-Current state of women's labor force participation
-Visualization - Women's labor force participation rates by region and over time
-
 ### Persistent Inequalities
 Wage gap analysis
 Underrepresentation in certain industries
+
 Visualization - Gender pay gap across states in US and in education
 
 ![plot](gender-pay-gap.png)
@@ -38,9 +34,9 @@ This visualization is created with the help of Datawrapper using it's inbuilt da
 Datawrapper: Create charts, maps, and tables, https://www.datawrapper.de/. Accessed 24 September 2024.
 
 ### Education and Empowerment
-Correlation between education and other empowerment indicators
-Impact of early motherhood on opportunities
-Visualization: Education access rates alongside labor force participation and teen birth rates
+Higher teen birth rates maybe an indicator of lack of proper education and sexual health resources.
+
+Visualization: Teen birth rates in the US by state
 
 <div class='tableauPlaceholder' id='viz1728007354732' style='position: relative'><noscript><a href='#'><img alt='Average Teen Birth Rates in the US by State ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;TeenBirthRates_17280073261100&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TeenBirthRates_17280073261100&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;TeenBirthRates_17280073261100&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -54,6 +50,7 @@ Visualization: Education access rates alongside labor force participation and te
 ### Looking Ahead - Challenges and Opportunities
 Key areas for improvement
 Role of policy, education, and cultural change
+I plan to have three boxes, one with opportunities one with challenges and the middle one with a unique question with directs to our call of action.
 
 ### Conclusion - Inspiring Action
 Recap of key insights
@@ -65,7 +62,6 @@ Giving a sense of what it is to be a woman in 2024
 ## Target audience
 
 My target audience is my class professor, my class TA, my flatmate, my boyfriend, my mother who is always wishes for my well being, my father who calms her down, the woman for whom I opened the door today, the nice gentleman who said I looked beautiful in the morning, the not so nice person who thought I couldn't do xyz, the person who always believed in me even when I didn't. Yes, this list includes everyone, every human irrespective of their genders and sexual preferences around me and around all of us, as I think that being a woman, this beautiful rollercoaster journey is incomplete without everyone around us. The purpose of this story is not to point out at organizations or people who have themselves done for example gender pay discrimination or were victimes of, this is simply to educate people of the current scenario and making them think on their own if they want to do anything about it. 
-
 
 
 ## Interview script
@@ -162,15 +158,7 @@ The call to action should be to inspire the audience to interact with the topic 
 # Identified changes for Part III
 
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
 
 
