@@ -86,8 +86,26 @@ My target audience is my class professor, my class TA, my flatmate, my boyfriend
 
 
 ## Interview findings
-
 Interview 1 - A Female's Perspective 
+
+❓ What do you understand by the title of this project? Can you guess the story structure from the title or does it leave you with various 
+   different possibilities for this story?
+   
+❓ What is being a 21st century woman according to you?
+
+❓ Are the visualizations easy to understand? If I give you 10 seconds per visualization, what all will you remember from them collectively? 
+   Does it form a story structure in your head?
+   
+❓ If you were to explain what being a woman in this world is to a child, will this story work for the purpose? Does it cover various aspects 
+   of being a woman without getting into extremes?
+
+❓ What improvements will you suggest (Graphs, Design, Colors, Text)? What should the call of action be in the end according to you?  
+
+
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+<hr style="border: 0.5px solid #d3d3d3;" />
+
 
 Interview 2 - A Man's Perspective 
 
@@ -97,6 +115,9 @@ Interview 2 - A Man's Perspective
 **Answer**   
 
 The title suggests the experiences and perspectives of a woman in the 21st century. The story would likely highlight themes such as empowerment, challenges & progress. The project weaves together personal anecdotes, statistical data, and general cultural observations.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
+
    
 ❓ What is being a 21st century woman according to you?
 
@@ -104,6 +125,7 @@ The title suggests the experiences and perspectives of a woman in the 21st centu
 
 Women today often balance multiple roles, including professional, family, and personal lives. Despite significant advances in our society, women today confront issues such as gender inequality, societal expectations, and the ever-expanding struggle for work-life balance. 
 
+<hr style="border: 0.5px solid #d3d3d3;" />
 
 ❓ Are the visualizations easy to understand? If I give you 10 seconds per visualization, what all will you remember from them collectively? 
    Does it form a story structure in your head?
@@ -112,13 +134,17 @@ Women today often balance multiple roles, including professional, family, and pe
 
    A 21st-century woman embodies resilience, adaptability, and a commitment to forging her own path while contributing to broader social change.
 The visualizations have colorful visuals, clear labels, and key data points that are clearly represented. These visualizations build upon each other to comprehensively tell the overarching story of the project.
-   
+
+   <hr style="border: 0.5px solid #d3d3d3;" />
+
 ❓ If you were to explain what being a woman in this world is to a child, will this story work for the purpose? Does it cover various aspects 
    of being a woman without getting into extremes?
 
 **Answer**  
 
    Yes, the story is suitable to explain to a child what it means to be a woman in today's world. Themes such as pursuing dreams, overcoming challenges, and contributing positively to society at large. The story conveys the essence of being a woman without getting into extreme or inappropriate topics for children.
+
+<hr style="border: 0.5px solid #d3d3d3;" />
 
 ❓ What improvements will you suggest (Graphs, Design, Colors, Text)? What should the call of action be in the end according to you?  
 
@@ -129,6 +155,8 @@ Design - Balance the layout slightly better by utilizing the space available, to
 
 The call to action should be to inspire the audience to interact with the topic on a deeper, more personal level. It should encourage everyone to promote initiatives such as gender equality and help enlighten the audience on women's issues, written by a woman. The call to action should inspire the reader to be more aware of the interactions around them and to be a force for good in this world.
 
+<hr style="border: 0.5px solid #d3d3d3;" />
+<hr style="border: 0.5px solid #d3d3d3;" />
 
 
 # Identified changes for Part III
