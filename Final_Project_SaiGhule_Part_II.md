@@ -162,7 +162,4 @@ The call to action should be to inspire the audience to interact with the topic 
 
 
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
