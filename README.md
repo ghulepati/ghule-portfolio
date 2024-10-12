@@ -1,7 +1,8 @@
 # PORTFOLIO
-I hope to get better at visualisations to land a job before December <3
+I am a Product Manager, I have a good understanding of business as well as techonology. Moreover, I also have sound financial markets knowledge as well but the one think which is yet not my top skill is visualizations, I can write a python code for it but I can't make it the prettiest graph you have seen. Being a good Product Manager is being able to understand and make good visualisations and working closely with UI/UX teams. I tend to enhance these creative skills of mine through this course. 
 
-| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](https://ghulepati.github.io/ghule-portfolio/tableau.html) | [US Guns Export](Export.md) | [Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)) |
+| [🏠 Home Page](https://ghulepati.github.io/ghule-portfolio/) | [💴 Government Debt](https://ghulepati.github.io/ghule-portfolio/tableau.html) | [💣 US Guns Export](Export.md) | [📝 Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [📉 Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [📈 Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)) |
+
 # About Me
 
 Hello! My name is Sai Ghule and my pronouns are she/her. I am currently enrolled in the MISM-16 program at Carnegie Mellon University. This is my third degree, I have an undergraduate degree in Computer Science and a diploma in Underwater Archaeology before this.
@@ -25,21 +26,22 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 
 ## Assignment 1
 
-[Tableau Assignment](tableau.md)
+[🌸 Tableau Assignment](tableau.md)
 
 ## Assignment 2
 
-[US Guns Export](Export.md)
+[🌸 US Guns Export](Export.md)
 
 ## Final Project Part I
-[Final Project Part 1](final_project_SaiGhule.md)
+[🌸 Final Project Part 1](final_project_SaiGhule.md)
 
 ## Final Project Part II
-[Final Project Part II](Final_Project_SaiGhule_Part_II.md)
+[🌸 Final Project Part II](Final_Project_SaiGhule_Part_II.md)
 
 ## Final Project Part III
-[Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)))
-[Short Hand ](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
+[🌸 Final Project Part III](Final_project_SaiGhule_Part_III.md)))
+
+[🌸Short Hand ](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
 
 
 
