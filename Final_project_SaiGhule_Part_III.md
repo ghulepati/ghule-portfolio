@@ -2,8 +2,11 @@
 
 # Final Project Part I 
 
+[Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)
+
 # Final Project Part II 
-[Final Project Part II](https://ghulepati.github.io/ghule-portfolio/Final_Project_SaiGhule_Part_II.html) |
+
+[Final Project Part II](https://ghulepati.github.io/ghule-portfolio/Final_Project_SaiGhule_Part_II.html) 
 
 # Final Project Part III 
 
