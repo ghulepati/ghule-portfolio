@@ -24,17 +24,41 @@ All of this together wasn't making a story and ***Call to Action*** wasn't clear
 
 - I started with a positive change and showing some stats on how more and more women are enrolled in colleges and are getting degrees
   <img width="1103" alt="image" src="https://github.com/user-attachments/assets/fba19a56-1648-439f-b845-9c235d7f10c6">
- 
+- At the same time, I contrasted this with a statement that though women enrollment is increasing, becausde of abortion laws in the US which     
+  don't allow teenage girls to have an abortion, teen pregnancy rates are increasing due to which most of these girls drop out of school. I 
+  tried to show the goood and bad, both sides of the coin at the same time.
+  <img width="1137" alt="image" src="https://github.com/user-attachments/assets/aa729c2e-2ada-42cb-91a8-9809e8545b81">
+- I supported this with my previous graph of increase in Teenage birth rate by state. Here, I didn't want to have a controversy by pointing out 
+  abortion laws of each state thus, I choose to show teenage pregnancy rate by state to subtly indicate that the states with high teenage 
+  pregnancy rates are the ones with unjust abortion laws and hence leading to a drop in education.
+  <img width="940" alt="image" src="https://github.com/user-attachments/assets/084ad204-5cde-4ee4-8df1-059825f30bef">
+- After this education sector, I moved on to professional sector and showed how there has been a rise of women leaders in business as compared 
+  to male leaders.
+- I supported this with a graph
+  <img width="1394" alt="image" src="https://github.com/user-attachments/assets/915b0fed-5be5-4415-9c33-ffe6f40967dc">
+- Now, again I wanted to show a contrast, thus while I am saying that women leaders are rising and it is a very good thing at the same time, for 
+  a same position women are paid less than men even today and the gender pay gap exists and is very real. This graph is also present on 
+  shorthand slides.
+- After education and professional sector, I aimed at having some statistics from United Nations Women and other sources cited at the bottom, 
+ showing how women from different locations around the world are forced to get married and once they are, they don't have the choice to make 
+ their own decisions and while most of us have already fought the battle of education and professional sector, we loose here after being married 
+ not according to our will.
+- Call to Action 
+  
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+As I have described earlier as well in Part II, my audience is everyone. 
+
+### What steps have I taken to make this audience understand better?
+
+Initially with the teen pregnancy graph I had made a map and done some cool stuff (according to me) but it was really confusing and honestly people don't even liked to zoom in the map or take the effort to do so ..
+Hence, I kept all of my graphs simple, a bar graph, a line graph and the last one simple lines showing difference between gender pay gap. I did this because, I want a high school dropout, a 80-year old person, man, woman, every human being irrespective of their gender and education level to understand my visualizations. 
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+I have talked above how I changed my entire story
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
