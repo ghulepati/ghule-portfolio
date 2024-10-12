@@ -22,7 +22,9 @@ All of this together wasn't making a story and ***Call to Action*** wasn't clear
 
 ### Change I made - 
 
-- I started with a positive change and showing some stats on how more and more women are enrolled in colleges and are getting 
+- I started with a positive change and showing some stats on how more and more women are enrolled in colleges and are getting degrees
+  <img width="1103" alt="image" src="https://github.com/user-attachments/assets/fba19a56-1648-439f-b845-9c235d7f10c6">
+ 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
