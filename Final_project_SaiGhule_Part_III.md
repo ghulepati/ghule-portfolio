@@ -81,7 +81,7 @@ I have talked above how I changed my entire story based on user interviews and c
 
 ## References
 
-Citations
+### Citations
 
 “Women's labour force participation and marital status.” UN Women Data Hub, 24 September 2019, https://data.unwomen.org/features/womens-labour-force-participation-and-marital-status. Accessed 11 October 2024.
 
@@ -91,17 +91,22 @@ López, Rafael, and Pat Mora. “Teen Pregnancy & High School Dropout: What Comm
 
 “Girls' Education Overview.” World Bank, https://www.worldbank.org/en/topic/girlseducation. Accessed 11 October 2024.
 
-Pictures 
+### Pictures 
 
 All images are taken from Short Hand Free Images itself and are not copywrited. 
 
-Graphs 
+### Graphs 
 
 My Tableau Public Account and one from Data Wrapper
 
 Datawrapper: Create charts, maps, and tables, https://www.datawrapper.de/. Accessed 11 October 2024.
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+### Content 
 
-Text here!
+Everything is self-written, (I don't like LLMs that much they are good at times but somehow they still lack that human connect when you read LLM written content), with an exception of the quotes/facts/percentages which are taken from the sources cited above. 
+
+# Final thoughts
+
+I honestly, loved working on this project. It all started when started when someone said to me that GHC is sexist and how in this bad job market women will get a job just because companies want diversity. Actually, it started way before this, all of my friends say that I am a strong feminist and sometimes I should chill a little, maybe that is true and I will take it chill when more than 50% teen girls don't drop out of school because of pregnancy, when women in high leadership positions get paid equally as men, when 41,000 girls per day under the age of 18 are not forcefully being married....
+
+When these numbers cease to exist, I will also stop being a strong feminist all the time, but till then I will continue to live in a beautiful postivie world with some anomalies trying to make it even more beautiful by educating people rather than going on a war with them, because that is what being a woman in 21st century is rigth? - We don't want you to sympathise with us, we don't want to wage a war against men (we really don't), we don't want you to feel sorry for us, all we want is for you to open your doors for us, so that we can educate you on how it is to be a woman and then it is your choice what to do with the information. That is what being a woman is, we give you a choice, we educate, we don't force!
