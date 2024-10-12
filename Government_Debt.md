@@ -1,6 +1,6 @@
 # Welcome to Sai's Tableau Assignment #
 
-| [home page](https://ghulepati.github.io/ghule-portfolio/) | [Visualizaing debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html)) | 
+| [home page](https://ghulepati.github.io/ghule-portfolio/) | [Visualizaing debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html) | 
 
 
 
