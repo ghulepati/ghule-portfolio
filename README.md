@@ -13,10 +13,11 @@ As a career goal I aspire to be a Project/Product Manager. I'm looking forward t
 # What I Hope to Learn
 
 In this course, I am eager to learn 
-- Data Visualisations
-- Color Gradients
-- Dashboards
-- Tableau
+
+🔸 Data Visualisations
+🔸 Color Gradients
+🔸 Dashboards
+🔸 Tableau
 
 I am particularly interested in understanding data and making visualisations better so that all can understand them, and I believe this course will provide me with the foundational skills to excel in this area. 
 
@@ -26,22 +27,22 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 
 ## Assignment 1
 
-[🌸 Tableau Assignment](tableau.md)
+🔸[Tableau Assignment](tableau.md)
 
 ## Assignment 2
 
-[🌸 US Guns Export](Export.md)
+🔸[US Guns Export](Export.md)
 
 ## Final Project Part I
-[🌸 Final Project Part 1](final_project_SaiGhule.md)
+🔸[Final Project Part 1](final_project_SaiGhule.md)
 
 ## Final Project Part II
-[🌸 Final Project Part II](Final_Project_SaiGhule_Part_II.md)
+🔸[Final Project Part II](Final_Project_SaiGhule_Part_II.md)
 
 ## Final Project Part III
-[🌸 Final Project Part III](Final_project_SaiGhule_Part_III.md)))
+🔸[Final Project Part III](Final_project_SaiGhule_Part_III.md)))
 
-[🌸Short Hand ](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
+🔸[Short Hand ](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
 
 
 
