@@ -58,12 +58,48 @@ Hence, I kept all of my graphs simple, a bar graph, a line graph and the last on
 
 ## Final design decisions
 
-I have talked above how I changed my entire story
+I have talked above how I changed my entire story based on user interviews and comments I received.  
+
+### Color Theme Changes 
+- Initially I was going with lavender/purple/pink but then later after my slides were done I realised that, this is too steoreotypical and I dont want that. 
+
+
+<img width="1190" alt="image" src="https://github.com/user-attachments/assets/98dff8e0-2fc4-4536-9308-458060b72b16">
+
+- After this I thought that I should make a bold move and go with blue showing bold gen-z women
+
+
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/722ab29f-d1e5-4bf6-96bb-f381a73a3eec">
+
+- After a long time thinking about all possible colors I know in life, it just hit me that why does have to be extreme, I mean my story doesn't say that being a woman is a good or bad thing in today's world, it is rather an educative approach towards it. So I decided to go with
+  - Orange
+  - Brown
+  - Flowers
+- This theme not only shows stability but also it doesn't stereotypes women to any colour, which is the motive of the story! 
+
+
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+Citations
+
+“Women's labour force participation and marital status.” UN Women Data Hub, 24 September 2019, https://data.unwomen.org/features/womens-labour-force-participation-and-marital-status. Accessed 11 October 2024.
+
+“Vast numbers of women lack decision-making power over their own bodies, says UNFPA flagship report.” United Nations Population Fund, 10 April 2019, https://www.unfpa.org/news/vast-numbers-women-lack-decision-making-power-over-their-own-bodies-says-unfpa-flagship-report. Accessed 11 October 2024.
+
+López, Rafael, and Pat Mora. “Teen Pregnancy & High School Dropout: What Communities Can Do To Address These Issues.” Colorin Colorado, https://www.colorincolorado.org/research/teen-pregnancy-high-school-dropout-what-communities-can-do-address-these-issues. Accessed 11 October 2024.
+
+“Girls' Education Overview.” World Bank, https://www.worldbank.org/en/topic/girlseducation. Accessed 11 October 2024.
+
+Pictures 
+
+All images are taken from Short Hand Free Images itself and are not copywrited. 
+
+Graphs 
+
+My Tableau Public Account and one from Data Wrapper
+
+Datawrapper: Create charts, maps, and tables, https://www.datawrapper.de/. Accessed 11 October 2024.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
