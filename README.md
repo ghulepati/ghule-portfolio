@@ -38,7 +38,8 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 [Final Project Part II](Final_Project_SaiGhule_Part_II.md)
 
 ## Final Project Part III
-[Final Project Part III](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
+[Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)))
+[Short Hand ](https://carnegiemellon.shorthandstories.com/being-a-woman-in-the-21st-century/index.html)
 
 
 
