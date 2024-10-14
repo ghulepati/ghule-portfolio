@@ -1,7 +1,7 @@
 # PORTFOLIO
 I am a Product Manager, I have a good understanding of business as well as techonology. Moreover, I also have sound financial markets knowledge as well but the one think which is yet not my top skill is visualizations, I can write a python code for it but I can't make it the prettiest graph you have seen. Being a good Product Manager is being able to understand and make good visualisations and working closely with UI/UX teams. I tend to enhance these creative skills of mine through this course. 
 
-| [🏠 Home Page](https://ghulepati.github.io/ghule-portfolio/) | [💴 Government Debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html) | [💣 US Guns Export](Export.md) | [📝 Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [📉 Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [📈 Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)) |
+| [🏠 Home Page](https://ghulepati.github.io/ghule-portfolio/) | [💴 Government Debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html) | [💣 US Guns Export](https://ghulepati.github.io/ghule-portfolio/Export.html) | [📝 Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [📉 Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [📈 Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)) |
 
 # About Me
 
@@ -27,7 +27,7 @@ During my internship, I was responsible for creating Looker Studio Dashboards fo
 
 ## Assignment 1
 
-🔸[Tableau Assignment](tableau.md)
+🔸[Tableau Assignment](Government_Debt.md)
 
 ## Assignment 2
 
