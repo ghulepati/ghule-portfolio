@@ -1,6 +1,6 @@
 # Welcome to Sai's Tableau Assignment #
 
-| [home page](https://ghulepati.github.io/ghule-portfolio/) | [Visualizaing debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html) | 
+| [home page](https://ghulepati.github.io/ghule-portfolio/) | [visualizing debt](tableau.md) | [US Guns Export](Export.md) | [Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html) |
 
 
 
