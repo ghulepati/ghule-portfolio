@@ -4,9 +4,9 @@
 
 # About Me
 
-Hello! My name is Sai Ghule and my pronouns are she/her. I am currently enrolled in the MISM-16 program at Carnegie Mellon University. This is my third degree, I have an undergraduate degree in Computer Science and a diploma in Underwater Archaeology before this.
+Hello! My name is Sai Ghule and my pronouns are she/her. I am currently enrolled in the MISM-16 program at Carnegie Mellon University. This is my third degree, I have an undergraduate degree in Computer Science and a diploma in Underwater Archaeology as well.
 
-As a career goal I aspire to be a Project/Product Manager. I'm looking forward to applying what I learn in this course to real-world projects and potentially pursuing a career in this area. Feel free to connect with me on [https://www.linkedin.com/in/sai-ghule999/](Linkedln)
+As a career goal I aspire to be a Product Manager. I'm looking forward to applying what I learn in this course to real-world projects and potentially pursuing a career in this area. Feel free to connect with me on [https://www.linkedin.com/in/sai-ghule999/](Linkedln)
 
 
 # What I Hope to Learn
