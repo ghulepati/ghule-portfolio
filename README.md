@@ -1,5 +1,7 @@
 # PORTFOLIO 
 
+All content in my assignments and projects has been independently written by me without the assistance of AI or any writing tools.
+
 | [🏠 Home Page](https://ghulepati.github.io/ghule-portfolio/) | [💴 Government Debt](https://ghulepati.github.io/ghule-portfolio/Government_Debt.html) | [💣 US Guns Export](https://ghulepati.github.io/ghule-portfolio/Export.html) | [📝 Final Project Part I](https://ghulepati.github.io/ghule-portfolio/final_project_SaiGhule.html)| [📉 Final Project Part II](Final_Project_SaiGhule_Part_II.md) | [📈 Final Project Part III](https://ghulepati.github.io/ghule-portfolio/Final_project_SaiGhule_Part_III.html)) |
 
 # About Me
